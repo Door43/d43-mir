@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mir:home|Door43 (mir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mir|d43-mir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mir/archive/master.zip|d43-mir.zip]]
+
+**Recent Changes**
+{{changes>ns = mir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mir|Ethnologue data]]
+
